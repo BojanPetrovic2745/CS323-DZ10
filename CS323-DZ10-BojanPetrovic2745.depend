@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1566027906 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/main.cpp
+	<iostream>
+	<string>
+	"Lice.h"
+	"PravnoLice.h"
+	"Proizvod.h"
+	"MlecniProizvod.h"
+
+1565877240 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/src/PravnoLice.cpp
+	"PravnoLice.h"
+
+1565877842 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/include/PravnoLice.h
+	<iostream>
+	"Lice.h"
+
+1565880050 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/src/Lice.cpp
+	"Lice.h"
+	<iostream>
+	<string>
+
+1565877814 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/include/Lice.h
+	<iostream>
+	<string>
+
+1566026626 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/src/MlecniProizvod.cpp
+	"MlecniProizvod.h"
+
+1566027556 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/include/MlecniProizvod.h
+	"Proizvod.h"
+
+1566027508 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/src/Proizvod.cpp
+	"Proizvod.h"
+
+1566027358 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ10-BojanPetrovic2745/include/Proizvod.h
+	<iostream>
+
